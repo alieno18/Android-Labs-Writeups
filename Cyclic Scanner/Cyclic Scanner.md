@@ -1,4 +1,5 @@
 We run the app and see that the user is prompted to allow the access to manage all files, we allow the access, mimicking what an user would do with their antivirus software:
+
 ![](./assets/Cyclic%20Scanner/20251122160456805-Cyclic%20Scanner.png)
 
 Then we see a button which seem to enable the scanner:
